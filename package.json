@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "jquery": "^3.7.1",
+    "node.js": "^0.0.1-security"
+  }
+}

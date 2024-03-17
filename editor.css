@@ -1,0 +1,33 @@
+header {
+    position: relative;
+}
+
+.body {
+    text-align: center;
+}
+.container {
+    display: flex;
+    height: 100%;
+    width: 100%;
+    padding: 0%;
+    margin: 0%;
+}
+
+.container div {
+    width: 50%;
+}
+
+#editor {
+    border-right: solid black 1px;
+    height: 90vh;
+    overflow-y: auto;
+}
+
+#image-viewer {
+    max-width: 100%;
+    height: auto;
+}
+
+.btn {
+    display: inline-block;
+}
