@@ -19,7 +19,7 @@ $("#add-link").on("click", async ()=>{
     if (range.startContainer === range.endContainer) {
       const anchor = $('<a/>', {
         class: "view",
-        href: "images/loading.gif"})
+        href: "images/loading-sm.gif"})
         .css({
           display: "inline-block",
           // pointerEvents: "none",
